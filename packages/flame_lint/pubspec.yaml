@@ -1,7 +1,7 @@
 name: flame_lint
 description: Flame lint package
 version: 0.1.1
-homepage: https://github.com/flame-engine/flame/tree/main/packages/flame_lint
+repository: https://github.com/flame-engine/flame/tree/main/packages/flame_lint
 
 environment:
   sdk: ">=2.16.0 <3.0.0"
