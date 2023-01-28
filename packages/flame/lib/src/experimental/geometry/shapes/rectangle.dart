@@ -7,7 +7,7 @@ import 'package:vector_math/vector_math_64.dart';
 
 /// An axis-aligned rectangle.
 ///
-/// This is similar to ui's [Rect], except that this class is mutable and
+/// This is similar to ui [Rect], except that this class is mutable and
 /// conforms to the [Shape] API.
 ///
 /// Unlike with [Rect], the [Rectangle] is always correctly oriented, in the
